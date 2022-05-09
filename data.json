@@ -1,0 +1,11 @@
+{
+    "fps":45,
+    "probability":40,
+    "block_count":50,
+    "width":800,
+    "height":800,
+    "cell_color":[76,0,153],
+    "line_color":[0,0,0],
+    "color_background" :[0,77,153],
+    "cell_state":[-1,-1,0,1,-1,-1,-1,-1,-1]
+}
